@@ -1,2 +1,2 @@
-# impacta_mlops.
+# impacta_mlops
 Aula MLops
