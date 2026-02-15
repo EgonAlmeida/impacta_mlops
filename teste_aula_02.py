@@ -13,4 +13,3 @@ print("y_train")
 y_train.head()
 print("y_test")
 y_test.head()
-
