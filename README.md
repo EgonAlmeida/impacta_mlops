@@ -1,4 +1,4 @@
-# Projeto MLOps – Previsão de Preço de Diamantes
+# Projeto MLOps – Previsão de Preço de Diamantes - impacta - Egon de Almeida Santos
 
 Este repositório faz parte da disciplina **MLOps – Running ML in Production Environments**.
 
